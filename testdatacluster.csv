@@ -1,0 +1,4 @@
+age,workclass,education-num,marital-status,occupation,relationship,race,sex,hours-per-week,native-country
+39,State-gov,13,Never-married,Adm-clerical,Not-in-family,White,Female,40,United-States
+50,Self-emp-no,13,Married-civ-spouse,Exec-managerial,Husband,Black,Male,13,United-States
+38,Private,9,Divorced,Handlers-cleaners,Not-in-family,White,Male,40,United-States
